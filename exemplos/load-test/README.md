@@ -51,7 +51,7 @@
 
 **Evidências**:
 
-![Evidencia](/extras/load-test/images/teste-inicial.drawio.png)
+![Evidencia](/exemplos/load-test/images/teste-inicial.drawio.png)
 
 ---
 
@@ -75,7 +75,7 @@
 
 **Evidências**:
 
-![Evidencia](/extras/load-test/images/teste-average.drawio.png)
+![Evidencia](/exemplos/load-test/images/teste-average.drawio.png)
 
 ---
 
@@ -99,7 +99,7 @@
 
 **Evidências**:
 
-![Evidencia](/extras/load-test/images/teste-spike.drawio.png)
+![Evidencia](/exemplos/load-test/images/teste-spike.drawio.png)
 
 ---
 
@@ -124,7 +124,7 @@
 
 **Evidências**:
 
-![Evidencia](/extras/load-test/images/teste-stress.drawio.png)
+![Evidencia](/exemplos/load-test/images/teste-stress.drawio.png)
 
 ---
 
@@ -144,4 +144,4 @@
  
 **Evidências**:
 
-![Evidencia](/extras/load-test/images/teste-breakpoint.drawio.png)
+![Evidencia](/exemplos/load-test/images/teste-breakpoint.drawio.png)
